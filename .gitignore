@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# ChromaDB (auto-generated)
+chroma/
