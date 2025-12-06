@@ -1,6 +1,6 @@
 # 🔍 Semantic Search Engine
 
-A powerful RAG (Retrieval-Augmented Generation) application that enables intelligent Q&A over your PDF documents using vector embeddings and large language models.
+*A powerful RAG (Retrieval-Augmented Generation) application that enables intelligent Q&A over your PDF documents using vector embeddings and large language models.*
 
 ![Python](https://img.shields.io/badge/Python-3.13+-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
