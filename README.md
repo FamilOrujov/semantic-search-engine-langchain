@@ -134,8 +134,3 @@ semantic-search-engine/
 5. **Query Processing** — User questions are embedded and matched against stored vectors
 6. **Response Generation** — Retrieved context is passed to the LLM for answer synthesis
 
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
