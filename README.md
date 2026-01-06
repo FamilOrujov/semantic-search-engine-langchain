@@ -14,16 +14,16 @@
 
 ## Features
 
-- **📄 PDF Document Processing** — Upload and parse PDF documents with automatic text extraction
-- **🧠 Semantic Understanding** — Leverages embedding models to understand context, not just keywords
-- **💬 Conversational Q&A** — Ask natural language questions about your documents
-- **⚡ Real-time Streaming** — Get LLM responses streamed in real-time for better UX
-- **🔄 Flexible Model Support** — Switch between local (Ollama) or cloud (OpenAI) models
-- **💾 Persistent Vector Store** — ChromaDB storage for efficient similarity search
+- **PDF Document Processing** — Upload and parse PDF documents with automatic text extraction
+- **Semantic Understanding** — Leverages embedding models to understand context, not just keywords
+- **Conversational Q&A** — Ask natural language questions about your documents
+- **Real-time Streaming** — Get LLM responses streamed in real-time for better UX
+- **Flexible Model Support** — Switch between local (Ollama) or cloud (OpenAI) models
+- **Persistent Vector Store** — ChromaDB storage for efficient similarity search
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
