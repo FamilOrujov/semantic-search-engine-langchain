@@ -128,7 +128,7 @@ semantic-search-engine/
 
 ---
 
-## 📝 How It Works
+## How It Works
 
 1. **Document Upload** — User uploads a PDF document through the Streamlit interface
 2. **Text Splitting** — Document is chunked into manageable pieces (1000 chars with 200 overlap)
