@@ -74,7 +74,7 @@
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Using Local Models (Default)
 
