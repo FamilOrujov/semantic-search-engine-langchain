@@ -101,7 +101,7 @@ export OPENAI_API_KEY="your-api-key"
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 semantic-search-engine/
@@ -115,7 +115,7 @@ semantic-search-engine/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|------------|
