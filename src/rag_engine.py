@@ -41,9 +41,11 @@ class RAGEngine:
         )
 
     def _clean_text(self, text):
-        if not text: return text
+        if not text:
+            return text
         parts = text.split()
-        if not parts: return text
+        if not parts:
+            return text
         single_chars = sum(1 for p in parts if len(p) == 1)
         ratio = single_chars / len(parts)
         if ratio > 0.4:
@@ -126,5 +128,5 @@ Context:
         try:
             data = self.vector_store.get()
             return len(data['ids'])
-        except:
+        except Exception:
             return 0
