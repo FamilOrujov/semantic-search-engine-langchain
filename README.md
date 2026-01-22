@@ -2,12 +2,13 @@
 
 # Semantic Search Engine
 
+### Local RAG System for Private Document Search and Question Answering
+
 <img src="https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Streamlit-1.41+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/LangChain-1.0+-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 <img src="https://img.shields.io/badge/Ollama-Local_LLM-FF6B35?style=for-the-badge" alt="Ollama">
 
-<br><br>
 
 <img src="assets/main_screen.png" alt="Semantic Search Engine Interface" width="100%">
 
