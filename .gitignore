@@ -1,14 +1,26 @@
-# Python-generated files
+
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
 
-# Virtual environments
-.venv
-.env
 
-# ChromaDB (auto-generated)
+.venv/
+venv/
+ENV/
+
+
+.vscode/
+.idea/
+
+
 chroma/
+*.pdf
+*.docx
+
+
+.DS_Store
+Thumbs.db
