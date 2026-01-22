@@ -12,7 +12,7 @@
 
 </div>
 
-## Features.
+## Features
 
 - **PDF Document Processing** — Upload and parse PDF documents with automatic text extraction
 - **Semantic Understanding** — Leverages embedding models to understand context, not just keywords
